@@ -1,7 +1,7 @@
 # Predicting Customer Churn
 
 ## Project Overview
-This project predicts likelihood of customer churn for a fake music streaming service using Spark and Python.  See this blog post for more in depth information regarding approach, structure, and outcomes.
+This project predicts likelihood of customer churn for a fake music streaming service using Spark and Python.  See this blog post (https://medium.com/@molly.king32/sparkify-faces-the-music-93a6c65f1551?source=---------2------------------) for more in depth information regarding approach, structure, and outcomes.
 
 ## File Descriptions 
 -**Sparkify_Prelim_Notebook:**  Notebook used for initial EDA to understand the data available and customer behavior
