@@ -24,5 +24,6 @@ With more time, I'd love to:
 -model using balanced classes to see if and to what degree that may influence predictive behavior of the models
 -heavier use of Spark syntax rather than Python3!  Due to technical issues with Udacity's site resulting in me losing my workspace, to expedite speed to output, I relied heavily on the language I'm fastest in.  Would love to spend more time translating code over to pyspark in order to truly maximize the benefits of the application used.
 
-
+## Credits and Acknowledgement
+This capstone project was completed as part of Udacity's Data Scientist Nanodegree.
 
